@@ -22,6 +22,7 @@ install bash
 install bash-completion
 install postgresql
 install phantomjs
+install mysql
 
 # Install wget with IRI support
 install wget --enable-iri
@@ -63,6 +64,9 @@ install imagemagick --with-webp
 # install zopfli
 
 # install homebrew/versions/lua52
+
+install git-flow
+install redis
 
 # Remove outdated versions from the cellar
 cleanup

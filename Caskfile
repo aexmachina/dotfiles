@@ -26,3 +26,8 @@ cask install vlc 2> /dev/null
 cask install spark 2> /dev/null
 cask install diffmerge 2> /dev/null
 cask install send-to-kindle 2> /dev/null
+cask install kindle 2> /dev/null
+cask install firefox 2> /dev/null
+cask install evernote 2> /dev/null
+cask install launchrocket 2> /dev/null
+cask install cyberduck 2> /dev/null
